@@ -1,4 +1,9 @@
-name = "t20250907"
+name = "korewa-oto"
 main = "_worker.js"
 compatibility_date = "2025-09-07"
+
 keep_vars = true
+
+[[kv_namespaces]]
+binding = "KV"
+id = "4b835daf76354e05af2bcb5e36ee734c"
